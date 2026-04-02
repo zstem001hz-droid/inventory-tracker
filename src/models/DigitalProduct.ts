@@ -9,7 +9,7 @@ export class DigitalProduct extends Product {
     }
 
     displayDetails(): string {
-        return `${this.name} (SKU ${this.sku}) costs $${this.price} and ${this.fileSize} MB`;
+        return `${this.name} (SKU: ${this.sku}) costs $${this.price} and ${this.fileSize} MB`;
     }
 
     getPriceWithTax(): number {

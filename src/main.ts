@@ -9,5 +9,5 @@ const products = [pproduct, dproduct];
 
 for (const product of products) {
     console.log(product.displayDetails());
-    console.log(calculateTax(product));
+    console.log(`Price with tax: $${calculateTax(product)}`);
 }

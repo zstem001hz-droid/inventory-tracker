@@ -29,7 +29,9 @@ Reinforcing key object-oriented programming concepts including inheritance, enca
 Zac White
 
 ## Acknowledgments
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of) for...of - loop 
+[MDN_](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of): for...of - loop 
+
+[MDN_](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed): Number.prototype.toFixed()
 
 ## Reflections
 

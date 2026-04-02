@@ -9,7 +9,7 @@ export class PhysicalProduct extends Product {
     }
 
     displayDetails(): string {
-        return `${this.name} (SKU ${this.sku}) costs $${this.price} and weighs ${this.weight} kg`;
+        return `${this.name} (SKU: ${this.sku}) costs $${this.price} and weighs ${this.weight} kg`;
     }
 
     getPriceWithTax(): number {
